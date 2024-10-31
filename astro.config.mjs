@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: `https://mr00k3.github.io`,
-	base: `/krzakipudlo2webpage`,
+	base: process.env.CI ? '/krzakipudlo2webpage' : undefined,
 	integrations: [
 		starlight({
 
