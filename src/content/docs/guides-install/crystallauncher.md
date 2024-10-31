@@ -13,7 +13,7 @@ Pobierz i zainstaluj [Crystal Launcher](https://crystal-launcher.pl/releases/red
 
 Kliknij dwa razy w `KrzakiPudlo2-2.0.3.clpkg` powinno sie pojawić takie okno ⬇️
 
-![import](/src/assets/kp2wp-screen/cl/import.png)
+![import](/krzakipudlo2webpage/src/assets/kp2wp-screen/cl/import.png)
 
 Jesli się pojawiło kliknij "Zatwierdz" i poczekaj. **Jesli nie przejdz [tutaj](#launcher-nie-otwiera-sie-po-kliknieciu-dwa-razy-clpkg)** <br>
 Teraz uruchomi się CL **NIE KLIKAJ "GRAJ"**. <br>
