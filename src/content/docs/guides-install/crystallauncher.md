@@ -13,7 +13,7 @@ Pobierz i zainstaluj [Crystal Launcher](https://crystal-launcher.pl/releases/red
 
 Kliknij dwa razy w `KrzakiPudlo2-2.0.3.clpkg` powinno sie pojawić takie okno ⬇️
 
-![import](krzakipudlo2webpage/src/assets/kp2wp-screen/cl/import.png)
+![import](/src/assets/kp2wp-screen/cl/import.png)
 
 Jesli się pojawiło kliknij "Zatwierdz" i poczekaj. **Jesli nie przejdz [tutaj](#launcher-nie-otwiera-sie-po-kliknieciu-dwa-razy-clpkg)** <br>
 Teraz uruchomi się CL **NIE KLIKAJ "GRAJ"**. <br>
@@ -21,11 +21,11 @@ Teraz uruchomi się CL **NIE KLIKAJ "GRAJ"**. <br>
 #### Konfiguracja
 Kliknij w Ustawenia ⬇️
 
-![settings](krzakipudlo2webpage/src/assets/kp2wp-screen/cl/settings.png)
+![settings](/src/assets/kp2wp-screen/cl/settings.png)
 
 Powinno pokazać sie okno ustawiania RAM'u ⬇️
 
-![ram](krzakipudlo2webpage/src/assets/kp2wp-screen/cl/ram.png)
+![ram](/src/assets/kp2wp-screen/cl/ram.png)
 
 Jesli masz **16GB** ramu ustaw <br>
 "Maksymalna Wartość RAM" na `8192` <br>
@@ -39,7 +39,7 @@ Po ustawieniu kliknij "Zapisz" <br>
 
 I teraz kliknij "Graj" ⬇️
 
-![play](krzakipudlo2webpage/src/assets/kp2wp-screen/cl/play.png)
+![play](/src/assets/kp2wp-screen/cl/play.png)
 
 
 ## Coś nie działa?
@@ -49,31 +49,31 @@ w kolejnym kafelku wpisz nick jaki chcesz mieć, Zamknij aplikacje i wróć do [
 #### Launcher nie otwiera sie po kliknieciu dwa razy .clpkg
 Odpal launcher z pulpitu i wejdz w "Przeglądaj paczki" ⬇️
 
-![issue_sel_pkgs](krzakipudlo2webpage/src/assets/kp2wp-screen/cl/issue_sel_packages.png)
+![issue_sel_pkgs](/src/assets/kp2wp-screen/cl/issue_sel_packages.png)
 
 Wejdz w "Paczki użytkownika" ⬇️
 
-![issue_sel_userpkg](krzakipudlo2webpage/src/assets/kp2wp-screen/cl/issue_sel_userpkgs.png)
+![issue_sel_userpkg](/src/assets/kp2wp-screen/cl/issue_sel_userpkgs.png)
 
 Teraz kliknij w "➕ Nowa paczka lub importowanie" ⬇️
 
-![issue_click_add_new](krzakipudlo2webpage/src/assets/kp2wp-screen/cl/issue_click_add_new.png)
+![issue_click_add_new](/src/assets/kp2wp-screen/cl/issue_click_add_new.png)
 
 Wpisz nazwe paczki np. "KrzakiPudlo2" **WAZNE!!! BEZ POLSKICH ZNAKÓW I NAZWA MUSI BYĆ** i kliknij w "Importuj paczkę CLPKG" ⬇️
 
-![issue_sel_clpkg](krzakipudlo2webpage/src/assets/kp2wp-screen/cl/issue_sel_clpkg.png)
+![issue_sel_clpkg](/src/assets/kp2wp-screen/cl/issue_sel_clpkg.png)
 
 Teraz kliknij w "..." ⬇️
 
-![issue_sel_3dot](krzakipudlo2webpage/src/assets/kp2wp-screen/cl/issue_sel_3dot.png)
+![issue_sel_3dot](/src/assets/kp2wp-screen/cl/issue_sel_3dot.png)
 
 Znajdz folder gdzie pobrałeś `KrzakiPudlo2-2.0.3.clpkg` i wybierz plik ⬇️
 
-![issue_sel_file](krzakipudlo2webpage/src/assets/kp2wp-screen/cl/issue_sel_file.png)
+![issue_sel_file](/src/assets/kp2wp-screen/cl/issue_sel_file.png)
 
 Kliknij "Dalej" i zaczekaj ⬇️
 
-![issue_sel_file](krzakipudlo2webpage/src/assets/kp2wp-screen/cl/issue_click-confirm.png)
+![issue_sel_file](/src/assets/kp2wp-screen/cl/issue_click-confirm.png)
 
 Po tym kliknij "Zatwierdz"
 **NIE KLIKAJ "Graj"** <br>
