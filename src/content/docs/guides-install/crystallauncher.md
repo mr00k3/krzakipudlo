@@ -62,8 +62,8 @@ Po pobraniu kliknij "Graj" ⬇️
 ![play](../../../assets/kp2wp-screen/cl/play.png)
 
 ## Metoda 2: Importowanie
-Pobierz [KrzakiPudlo2-2.0.3.clpkg](https://frog02-20559.wykr.es/KrzakiPudlo2-2.0.3.clpkg)
-Kliknij dwa razy w `KrzakiPudlo2-2.0.3.clpkg` powinno sie pojawić takie okno ⬇️
+Pobierz [KrzakiPudlo2-2.0.8.clpkg](https://frog02-20559.wykr.es/KrzakiPudlo2-2.0.8.clpkg)
+Kliknij dwa razy w `KrzakiPudlo2-2.0.8.clpkg` powinno sie pojawić takie okno ⬇️
 
 ![import](../../../assets/kp2wp-screen/cl/import.png)
 
