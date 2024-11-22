@@ -41,7 +41,7 @@ Kliknij w "➕ Nowa paczka lub importowanie" ⬇️
 
 ![click_new](../../../assets/kp2wp-screen/cl_downfromcf/click_new.png)
 
-Wpisz nazwe paczki np. "KrzakiPudlo2" **WAZNE!!! BEZ POLSKICH ZNAKÓW I NAZWA MUSI BYĆ** i kliknij w "Importuj paczkę CLPKG" ⬇️
+Wpisz nazwe paczki np. "KrzakiPudlo2" **WAZNE!!! BEZ POLSKICH ZNAKÓW I NAZWA MUSI BYĆ**
 
 ![nameofpack](../../../assets/kp2wp-screen/cl_downfromcf/nameofpack.png)
 
