@@ -1,6 +1,6 @@
 ---
 title: Lista Modów
-description: A guide in my new Starlight docs site.
+description: KrzakiPudlo 2 - Lista Modów
 ---
 
 ## Mody 

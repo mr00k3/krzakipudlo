@@ -1,25 +1,16 @@
 ---
 title: Crystal Launcher - instalacja
-description: Installtion guide
+description: KrzakiPudło 2 - Crystal Launcher - Instalacja
 ---
 
 ## Crystal Launcher - Pobieranie
-Pobierz i zainstaluj [Crystal Launcher](https://crystal-launcher.pl/releases/redirector.php?fid=1) po tym pobierz [KrzakiPudlo2-2.0.3.clpkg](https://frog02-20559.wykr.es/KrzakiPudlo2-2.0.3.clpkg)
+Pobierz i zainstaluj [Crystal Launcher](https://crystal-launcher.pl/releases/redirector.php?fid=1)
+## Instalacja i konfiguracja
 
-## Importowanie i konfiguracja
 **Jesli pierwszy raz instalujesz CL'a lub go nie uzywałeś przejdz do [Pierwsze Odpalenie](#pierwsze-odpalenie)**
 
-#### Importowanie
-
-Kliknij dwa razy w `KrzakiPudlo2-2.0.3.clpkg` powinno sie pojawić takie okno ⬇️
-
-![import](../../../assets/kp2wp-screen/cl/import.png)
-
-Jesli się pojawiło kliknij "Zatwierdz" i poczekaj. **Jesli nie przejdz [tutaj](#launcher-nie-otwiera-sie-po-kliknieciu-dwa-razy-clpkg)** <br>
-Teraz uruchomi się CL **NIE KLIKAJ "GRAJ"**. <br>
-
-#### Konfiguracja
-Kliknij w Ustawenia ⬇️
+## Konfiguracja
+Odpal launcher i kliknij w Ustawenia ⬇️
 
 ![settings](../../../assets/kp2wp-screen/cl/settings.png)
 
@@ -37,15 +28,54 @@ A jesli masz **8GB** ramu ustaw <br>
 
 Po ustawieniu kliknij "Zapisz" <br>
 
+## Metoda 1: Pobieranie z CurseForge
+Kliknij w "Przeglądaj paczki" ⬇️
+
+![click_browse](../../../assets/kp2wp-screen/cl_downfromcf/click_browse.png)
+
+Teraz wejdz w "Paczki użytkownika" ⬇️
+
+![click_userpkgs](../../../assets/kp2wp-screen/cl_downfromcf/click_userpkgs.png)
+
+Kliknij w "➕ Nowa paczka lub importowanie" ⬇️
+
+![click_new](../../../assets/kp2wp-screen/cl_downfromcf/click_new.png)
+
+Wpisz nazwe paczki np. "KrzakiPudlo2" **WAZNE!!! BEZ POLSKICH ZNAKÓW I NAZWA MUSI BYĆ** i kliknij w "Importuj paczkę CLPKG" ⬇️
+
+![nameofpack](../../../assets/kp2wp-screen/cl_downfromcf/nameofpack.png)
+
+Kliknij w logo CurseForge ⬇️
+
+![browse_from_cf](../../../assets/kp2wp-screen/cl_downfromcf/browse_from_curseforge.png)
+
+Wyszukaj "Krzaki" w okienko wyszukiwania ⬇️
+
+![searchforpack](../../../assets/kp2wp-screen/cl_downfromcf/searchforkp2.png)
+
+Kliknij "Dalej" i zaczekaj ⬇️
+
+![click_next](../../../assets/kp2wp-screen/cl_downfromcf/click_next.png)
+
+Po pobraniu kliknij "Graj" ⬇️
+
+![play](../../../assets/kp2wp-screen/cl/play.png)
+
+## Metoda 2: Importowanie
+Pobierz [KrzakiPudlo2-2.0.3.clpkg](https://frog02-20559.wykr.es/KrzakiPudlo2-2.0.3.clpkg)
+Kliknij dwa razy w `KrzakiPudlo2-2.0.3.clpkg` powinno sie pojawić takie okno ⬇️
+
+![import](../../../assets/kp2wp-screen/cl/import.png)
+
+Jesli się pojawiło kliknij "Zatwierdz" i poczekaj. **Jesli nie przejdz [tutaj](#launcher-nie-otwiera-sie-po-kliknieciu-dwa-razy-clpkg)** <br>
 I teraz kliknij "Graj" ⬇️
 
 ![play](../../../assets/kp2wp-screen/cl/play.png)
 
-
 ## Coś nie działa?
 #### Pierwsze odpalenie
 Odpal launcher z pulpitu i kliknij "Nie-premium (jeśli nie masz konta Mojang ani Microsoft)" <br>
-w kolejnym kafelku wpisz nick jaki chcesz mieć, Zamknij aplikacje i wróć do [Instalacja i konfiguracja](#importowanie-i-konfiguracja)
+w kolejnym kafelku wpisz nick jaki chcesz mieć, Zamknij aplikacje i wróć do [Instalacja i konfiguracja](#instalacja-i-konfiguracja)
 #### Launcher nie otwiera sie po kliknieciu dwa razy .clpkg
 Odpal launcher z pulpitu i wejdz w "Przeglądaj paczki" ⬇️
 

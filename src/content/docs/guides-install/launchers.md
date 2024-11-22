@@ -1,9 +1,9 @@
 ---
 title: Wybór launchera
-description: Poradnik Wyboru Launchera
+description: KrzakiPudło 2 - Wybór Launchera
 ---
 
-## No to trza wybrać launcher nie?
+## No to trza wybrać launcher
 
 #### Premium
 - [CurseForge App](/krzakipudlo2webpage/guides-install/curseforge) (droga prosta)

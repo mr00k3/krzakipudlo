@@ -1,6 +1,6 @@
 ---
 title: Curseforge - instalacja
-description: A guide in my new Starlight docs site.
+description: KrzakiPudło 2 - Curseforge - Instalacja
 ---
 
 ## Pobieranie

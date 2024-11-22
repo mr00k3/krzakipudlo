@@ -1,9 +1,9 @@
 ---
 title: Zasady
-description: A guide in my new Starlight docs site.
+description: KrzakiPudło 2 - Zasady
 ---
 
 ## Zasady Serwera
-- Hard Mode
-- Depa na fotelu
-- Nie ma ich 
+- Hard Mode (Moby są mocne dość)
+- Starajcie sie nie uzywać jakiś game-breaking glitchy
+- Zakaz X-Raya i cheat klientów (i tak nic nie dają)

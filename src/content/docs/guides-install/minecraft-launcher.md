@@ -1,6 +1,6 @@
 ---
 title: Minecraft Launcher - instalacja
-description: A guide in my new Starlight docs site.
+description: KrzakiPudło 2 - Minecraft Launcher - instalacja
 ---
 
 Powiem tak, męcz sie sam. <br>

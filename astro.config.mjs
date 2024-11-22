@@ -33,10 +33,6 @@ export default defineConfig({
 						{ label: 'Wymagania', slug: 'guides/reqs' },
 					],
 				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
 			],
 		}),
 	],
