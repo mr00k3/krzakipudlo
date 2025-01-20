@@ -9,7 +9,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 
-			title: 'KrzakiPudło 2',
+			title: 'KrzakiPudło 3',
 			social: {
 				github: 'https://github.com/mr00k3/KrzakiPudlo2-webpage',
 			},
