@@ -1,6 +1,6 @@
 ---
 title: Curseforge - instalacja
-description: KrzakiPudło 2 - Curseforge - Instalacja
+description: KrzakiPudło 3 - Curseforge - Instalacja
 ---
 
 ## Pobieranie
@@ -12,7 +12,7 @@ W CurseForge kliknij "Przejrzyj paczki modyfikacji" ⬇️
 
 ![browse](../../../assets/kp2wp-screen/cf/browse.png)
 
-Wyszukaj "Krzaki Pudło 2" i kliknij "Zainstaluj". Teraz poczekaj na pobranie ⬇️
+Wyszukaj "Krzaki Pudło 3" i kliknij "Zainstaluj". Teraz poczekaj na pobranie ⬇️
 
 ![search](../../../assets/kp2wp-screen/cf/search_and_install.png)
 

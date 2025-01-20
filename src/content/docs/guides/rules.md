@@ -1,6 +1,6 @@
 ---
 title: Zasady
-description: KrzakiPudło 2 - Zasady
+description: KrzakiPudło 3 - Zasady
 ---
 
 ## Zasady Serwera

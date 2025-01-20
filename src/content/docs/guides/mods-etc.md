@@ -1,6 +1,6 @@
 ---
 title: Lista Modów
-description: KrzakiPudlo 2 - Lista Modów
+description: KrzakiPudlo 3 - Lista Modów
 ---
 
 ## Mody 

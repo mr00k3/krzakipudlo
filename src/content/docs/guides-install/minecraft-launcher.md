@@ -1,6 +1,6 @@
 ---
 title: Minecraft Launcher - instalacja
-description: KrzakiPudło 2 - Minecraft Launcher - instalacja
+description: KrzakiPudło 3 - Minecraft Launcher - instalacja
 ---
 
 Powiem tak, męcz sie sam. <br>

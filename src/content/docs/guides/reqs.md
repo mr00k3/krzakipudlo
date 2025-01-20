@@ -1,6 +1,6 @@
 ---
 title: Wymagania paczki
-description: KrzakiPudło 2 - Wymagania 
+description: KrzakiPudło 3 - Wymagania 
 ---
 ### Rekomendowane
 - Windows 10/11
