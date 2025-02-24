@@ -1,6 +1,6 @@
 ---
 title: Lista Modów
-description: KrzakiPudlo 3 - Lista Modów
+description: KrzakiPudlo_4 - Lista Modów
 ---
 
 ## Mody 
@@ -23,47 +23,30 @@ Pełna lista dostępna [tutaj](https://github.com/mr00k3/KrzakiPudlo2/blob/main/
 ### QOL
 - Dark Mode
 - Simple Voice Chat
-- Packed Up (Backpacks)
-- Sophisticated Backpacks
-- Traveler's Backpack
 ### Zbroje, Miecze
-- Hephaestus Fabric - Tinkers' Construct
+- Tinkers' Construct
 - Advanced Netherite
-- Warden Tools
-- Timeless and Classics Zero
-- DragonLoot
-- Immersive Armors
-- Mythic Upgrades
-### Transport
-- Valkyrien Skies (Forge/Fabric) - Fizyka 
-- Eureka! Ships! for Valkyrien Skies (Forge/Fabric) - Łodzie i Samoloty
 ### Jedzenie
 - Croptopia
-- Farmer's Delight Refabricated 
+- Farmer's Delight
     - i dodatki do niego duzo ich nie chce mi sie pisać
-### Ładne Bloki
-- Rechiseled
-    - Rechiseled: Create
-- Beautify: Refabricated
-- Blockus
 ### Techniczne
-- Tech Reborn
-    - Industrial Reborn
-    - Modern Dynamics
+- Mekanism
+- Thermal Series
+- Ender IO
 - Applied Energistics 2
 - CC: Tweaked
     - CC:C Bridge - Łącznik do Create
 - Create
-    - Clockwork: Create x Valkyrien Skies
+    - Create: Nuclear
     - Create: Modern Train Parts
-    - Create Big Cannons
-    - Create Crafts & Additions
-    - Create Deco
+    - Create: Big Cannons
+    - Create: Crafts & Additions
+    - Create: Deco
     - Create: Diesel Generators
-    - Create Enchantment Industry
-    - Create Slice & Dice
-    - Create Bells & Whistles
-    - Create Copycats+
-    - Create Food
-    - Create Interiors
-    - Create Steam 'n' Rails
+    - Create: Enchantment Industry
+    - Create: Slice & Dice
+    - Create: Copycats+
+    - Create: Food
+    - Create: Interiors
+    - Create: Steam 'n' Rails
