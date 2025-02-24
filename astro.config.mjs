@@ -5,11 +5,11 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: `https://mr00k3.github.io`,
-	base: process.env.CI ? '/krzakipudlo2webpage' : undefined,
+	base: process.env.CI ? '/krzakipudlo' : undefined,
 	integrations: [
 		starlight({
 
-			title: 'KrzakiPudło 3',
+			title: 'KrzakiPudło 4',
 			social: {
 				github: 'https://github.com/mr00k3/KrzakiPudlo2-webpage',
 			},
