@@ -1,13 +1,13 @@
 ---
 title: Wybór launchera
-description: KrzakiPudło_4 - Wybór Launchera
+description: KrzakiPudło4 - Wybór Launchera
 ---
 
 ## No to trza wybrać launcher
 
 #### Premium
-- [CurseForge App](/krzakipudlo2webpage/guides-install/curseforge) (droga prosta)
-- [Minecraft Launcher](/krzakipudlo2webpage/guides-install/minecraft-launcher) (droga do piekła)
+- [CurseForge App](/krzakipudlo/guides-install/curseforge) (droga prosta)
+- [Minecraft Launcher](/krzakipudlo/guides-install/minecraft-launcher) (droga do piekła)
 
 #### NonPremium
-- [Crystal Launcher](/krzakipudlo2webpage/guides-install/crystallauncher)
+- [Crystal Launcher](/krzakipudlo/guides-install/crystallauncher)

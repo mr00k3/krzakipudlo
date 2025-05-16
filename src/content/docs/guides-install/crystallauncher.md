@@ -1,6 +1,6 @@
 ---
 title: Crystal Launcher - instalacja
-description: KrzakiPudło_4 - Crystal Launcher - Instalacja
+description: KrzakiPudło4 - Crystal Launcher - Instalacja
 ---
 
 ## Crystal Launcher - Pobieranie
@@ -41,7 +41,7 @@ Kliknij w "➕ Nowa paczka lub importowanie" ⬇️
 
 ![click_new](../../../assets/kp2wp-screen/cl_downfromcf/click_new.png)
 
-Wpisz nazwe paczki np. "KrzakiPudlo3" **WAZNE!!! BEZ POLSKICH ZNAKÓW I NAZWA MUSI BYĆ**
+Wpisz nazwe paczki np. "KrzakiPudlo4" **WAZNE!!! BEZ POLSKICH ZNAKÓW I NAZWA MUSI BYĆ**
 
 ![nameofpack](../../../assets/kp2wp-screen/cl_downfromcf/nameofpack.png)
 
@@ -49,7 +49,7 @@ Kliknij w logo CurseForge ⬇️
 
 ![browse_from_cf](../../../assets/kp2wp-screen/cl_downfromcf/browse_from_curseforge.png)
 
-Wyszukaj "Krzaki" w okienko wyszukiwania i wybierz KrzakiPudlo3 ⬇️
+Wyszukaj "Krzaki" w okienko wyszukiwania i wybierz KrzakiPudlo4 ⬇️
 
 ![searchforpack](../../../assets/kp2wp-screen/cl_downfromcf/searchforkp2.png)
 
