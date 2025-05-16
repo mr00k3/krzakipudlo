@@ -10,6 +10,7 @@ Pobierz i zainstaluj [Crystal Launcher](https://crystal-launcher.pl/releases/red
 **Jesli pierwszy raz instalujesz CL'a lub go nie uzywałeś przejdz do [Pierwsze Odpalenie](#pierwsze-odpalenie)**
 
 ## Konfiguracja
+**Obrazki na stronie nawiązują do starszej wersji KrzakiPudlo więc czytaj intrukcje** <br>
 Odpal launcher i kliknij w Ustawenia ⬇️
 
 ![settings](../../../assets/kp2wp-screen/cl/settings.png)

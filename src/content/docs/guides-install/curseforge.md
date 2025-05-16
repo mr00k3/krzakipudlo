@@ -4,9 +4,11 @@ description: KrzakiPudło4 - Curseforge - Instalacja
 ---
 
 ## Pobieranie
+
 Pobierz [CurseForge](https://www.curseforge.com/download/app) i zainstaluj
 
 ## Instalacja Paczki
+**Obrazki na stronie nawiązują do starszej wersji KrzakiPudlo więc czytaj intrukcje** <br>
 
 W CurseForge kliknij "Przejrzyj paczki modyfikacji" ⬇️
 

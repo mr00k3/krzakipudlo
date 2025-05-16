@@ -6,6 +6,14 @@ description: KrzakiPudlo4 - Lista Modów
 ## Mody 
 Pełna lista dostępna [tutaj](https://github.com/mr00k3/KrzakiPudlo4/blob/main/modlist.txt)
 
+## QoL
+
+- Simple Voice Chat
+- JEI
+- Jade
+- Dark Mode Everywhere
+- Oculus
+
 ## Wymiary
 
 - The Aether
@@ -26,11 +34,11 @@ Pełna lista dostępna [tutaj](https://github.com/mr00k3/KrzakiPudlo4/blob/main/
 - Cataclysm  
 - The Graveyard
 - Bosses of Mass Destruction  
-- Born in Chaos  
+- Born in Chaos
 - When Dungeons Arise
 	- When Dungeons Arise - Seven Seas  
-- Integrated Structures & Dungeons  
-- Integrated Strongholds    
+- Integrated Structures & Dungeons + datapacki  
+- Integrated Strongholds + datapacki
 - Mowzie’s Mobs
 - Marium's Soulslike Weaponry
 - Dungeon Now Loading 1%
@@ -51,7 +59,7 @@ Pełna lista dostępna [tutaj](https://github.com/mr00k3/KrzakiPudlo4/blob/main/
 - Better Combat
 	- Better Combat x Apotheosis Compat
 
-## Techniczne i Automatyzacja
+## Techniczne, Automatyzacja, Karabiny
 
 - Create
 	- Create Crafts & Additions
@@ -135,6 +143,6 @@ Pełna lista dostępna [tutaj](https://github.com/mr00k3/KrzakiPudlo4/blob/main/
 
 - Biomes O’ Plenty  
 - Incendium
-- Repurposed Structures
-- Overhauled Village
-- YUNG's Better Structures
+- Repurposed Structures + datapacki
+- Overhauled Village + datapacki
+- YUNG's Better Structures (Prawie cały pakiet)
